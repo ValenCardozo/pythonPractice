@@ -17,3 +17,5 @@ def raininDays()
 
 # Dividir en 2 funciones, una para cargar la lluvia por dia y otra para calcular el total y el dia que mas llovio
 print(f'El dia que mas llovio fue {rainiestDay} y la cantidad llovida en la semana fue {totalRainFall}')
+
+
