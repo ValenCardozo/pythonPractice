@@ -11,6 +11,18 @@ def inputInteger(message: str, insult: str):
 
     return number
 
+def inputFloat(message: str, insult: str):
+    validate = False
+    while not validate:
+        number = float(message)
+        try:
+            number = int(number)
+            validate = True
+        except:
+            print(insult)
+
+    return number
+
 # El comandante ford
 def foo():
     print('MEAAAAAAAMEEEEEEE')

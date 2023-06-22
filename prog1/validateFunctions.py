@@ -1,7 +1,7 @@
 # Ejercicio 1 con validaciones
 # Pedir dos números enteros, sumarlos y mostrar el resultado.
-# import sys
-# sys.path.insert(1, '/home/user/Documents/ITEC/Progamacion I/pythonPractice/prog1/')
+import sys
+sys.path.insert(0, 'pythonPractice/prog1/')
 
 from libraries.functions import inputInteger
 # def inputInteger(message: str, insult: str):
