@@ -1,0 +1,5 @@
+# input con opciones (Ejemplo: ‘Quiere ingresar datos (si/no)”?)
+# q = inputChoice('si/no/a veces')
+# print(q)
+# r = inputChoice('rojo/verde', 'Elija un color')
+# print(r)

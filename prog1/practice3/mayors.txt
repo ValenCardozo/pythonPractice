@@ -1,0 +1,6 @@
+Nombre, Edad
+Juan, 23
+Pedro, 19
+Ana, 25
+Iñaki, 19
+María, 43
