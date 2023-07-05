@@ -39,3 +39,8 @@ def hello(message: str, city: str='Rio Cuarto'):
 def complex(first, second, *args, named='named'):
     print(first, second, args, named)
 
+# Funcion que tiene argumentos multiples denominados por clave
+def keys(**kwargs):
+    print(kwargs['hi'], kwargs['hellow'])
+
+keys(hi='motherfuckers', hellow='son of bitch')
