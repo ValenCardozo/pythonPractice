@@ -1,6 +1,5 @@
 # Concatenar un número indeterminado de strings con un caracter específico (por defecto un espacio).
 
-
 def concatenar(*args, conector=' '):
     text = ''
     for i in range(len(args)):
